@@ -15,6 +15,7 @@ int main(){
     puts("Depois da troca:");
     imprimir2Valores(p_v1,p_v2);
 
+    return 0;
 }
 
 void pedirValor(int *pa, int *pb){

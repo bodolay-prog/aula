@@ -27,6 +27,7 @@ srand(time(NULL));
 preencherVetor(p_v,qtd);
 imprimirVetor(p_v,qtd);
 
+    return 0;
 }
 
 void preencherVetor(int *pv, int qtd){

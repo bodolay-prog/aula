@@ -11,7 +11,7 @@ int main(){
     pedirValor(p_a,p_b);
     fazerSoma_MostrarValor(p_a,p_b,p_r);
 
-
+    return 0;
 }
 
 void pedirValor(int *pa, int *pb){

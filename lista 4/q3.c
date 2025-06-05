@@ -17,7 +17,7 @@ imprimirMenorValor(p_v0,p_v);
 i++;
 }
 
-
+    return 0;
 }
 
 void pedirValor(int *pa){ 
