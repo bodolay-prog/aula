@@ -28,5 +28,5 @@ void receberStg(char *pstg, int buff){
 void pegaremostrarTam(char *pstg, int *tam){
 
      *tam = strlen(pstg);
-    printf("O tamanho da stg é %d\n", *tam);
+    printf("O tamanho da srintg é %d\n", *tam);
 }
