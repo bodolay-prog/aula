@@ -24,9 +24,7 @@ int main(){
     preencherHisto(x,f,TAM);
     imprimirVetor(f,N);
 
-
-
-
+    return 0;
 }
 
 void preencherVetor(int *pv){
@@ -52,6 +50,6 @@ void preencherHisto(int *v,int *v2,int qtd){
     for(int i = 0;i<qtd;i++){
 
         (*(v2+*(v+i)))++;
-        
+
     }
 }

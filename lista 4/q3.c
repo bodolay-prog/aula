@@ -1,6 +1,7 @@
 #include <stdio.h>
 void pedirValor(int *);
 void imprimirMenorValor(int*,int*);
+
 int main(){
 
 int v0, *p_v0 = &v0,v, *p_v = &v, i = 0;
