@@ -9,7 +9,6 @@
 
 void preencherVetor(int*);
 void bubbleSort(int*);
-
 void imprimirVetor(int*);
 
 int main() {
