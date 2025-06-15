@@ -35,6 +35,9 @@ srand(time(NULL));
 preencherVetor(p_v,qtd);
 imprimirVetor(p_v,qtd);
 
+// Liberando a memória alocada
+free(p_v);
+
     return 0;
 }
 
