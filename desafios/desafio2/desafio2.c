@@ -25,7 +25,6 @@ int main(){
     imprimirMatriz(m,N,M);
     puts("=====Matriz Calculo=====");
     preencherMatriz_Cal(mc,m,N,M);
-    puts("");
     gerarMatrizLBP(mc,mlbp,N,M);
     puts("=======Matriz LBP=======");
     imprimirMatriz(mlbp,N,M);
